@@ -7,7 +7,8 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*This creates a background color for the header and elements within. 
+The font family effects all text in header nless specified otherwise. */
 .header {
     width: 100%;
     background-color: #2a607c;
@@ -15,7 +16,8 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* The h1 header specifically applies to the "Horiseon" title.
+The font family here only effects that header.*/
 .header h1 {
     font-size: 48px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -28,6 +30,7 @@ body {
     color: #d9dcd6;
 }
 
+/* The header ul li class effects the nav links on the top roght of the age */
 .header ul li {
     display: inline-block;
     text-align: right;
@@ -36,7 +39,7 @@ body {
     margin-top: -85px;
     margin-right: 35px;
 }
-
+/*This only makes the nav links 'align right' on the top of the page*/
 .right0 {
     text-align: right;
 }
@@ -49,7 +52,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* The large background image */
 .hero {
     height: 1100px;
     width: 100%;
