@@ -1,4 +1,4 @@
-![Capture  read me](https://github.com/Goobergreve09/code-refactor/assets/143923830/2e9dcdb5-5dfd-45d5-925a-04b3314b2b27)
+
 
 # code-refactor
 # 01 HTML, CSS, and Git: Code Refactor
